@@ -1,0 +1,103 @@
+h1{
+    color:green;
+    text-align: center;
+}
+
+
+}
+i{
+    color:green;
+
+}
+.success{
+    color:white;
+}
+a{
+    
+       margin:10px;
+       display:inline-block;
+       text-decoration: none;
+       font-size: larger;
+       padding: 5px;
+       border-radius: 5px;
+       
+      
+}
+.btn-sm{
+    color:green;
+
+}
+h2{
+    margin: 5px;
+}
+img{
+    margin: 20px;
+    border-radius: 5px;
+}
+        
+.alert-warning{
+    text-align: center;
+    font-size:larger;
+}
+ 
+h5{
+    text-align: center;
+    color:red;
+}
+.fa-twitter{
+    color:yellow;
+}
+h6{
+    color:#000;
+    font-size: large;
+}
+.fa-solid {
+    color:red;
+
+}
+
+.brand1{
+    margin:10px;
+    padding:5px;
+}
+
+
+}
+
+.hero{
+    margin: 10px;
+    padding: 5px;
+}
+.d-flex{
+    margin: 25px;
+    padding: 25px;
+}
+
+element.style {
+}
+
+.card-header{
+    color:blue;
+}
+.rupess{
+    color:red;
+}
+.card ,.card1{
+    text-align: none;
+    display:inline-block;
+}
+.naz{
+    text-decoration: inline;
+    font-size: medium;
+    font-style: italic;
+    color:green;
+}
+.btn-outline-success{
+    size: 10px;
+}
+.primary{
+    color:red;
+    margin:5px,5px,5px,5px;
+    padding:10px;
+
+}
